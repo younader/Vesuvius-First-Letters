@@ -1,0 +1,7 @@
+*_scrolls/
+wandb/
+*.png
+*.sh
+outputs/
+10letter_submission/
+*.ipynb
