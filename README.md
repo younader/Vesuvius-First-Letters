@@ -27,7 +27,7 @@ python 64x64_256stride_i3d.py
 ```
 
 ### Inference
-the inference script runs a trained model , for more info about the arguments check the InferenceArgumentParser class in the inference script
+the inference script runs a trained model , for more info about the arguments check the InferenceArgumentParser class in the inference script. a pretrained checkpoint is available [here](https://drive.google.com/file/d/1fAGZbVPHW6q1hNiI2E2NKzf6TyELzOC4/view?usp=sharing) 
 ```
 e.g: python inference.py --segment_id 123 --model_path 'model.ckpt'
 ```
