@@ -13,7 +13,8 @@ pytorch-lightning
 typed-argument-parser   
 segmentation_models_pytorch   
 albumentations   
-warmup_scheduler   
+warmup_scheduler
+wandb  
  ```
 
 
